@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QR-JWT</string>
+    <string name="qr">QR</string>
+    <string name="tab_below_to_scan">Tab below to scan</string>
+    <string name="to_know_data">to know data</string>
+    <string name="Approved">Approved</string>
+    <string name="Not_Approved">Not Approved</string>
+</resources>

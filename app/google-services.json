@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "41667906427",
+    "project_id": "qr-scanner-feb4c",
+    "storage_bucket": "qr-scanner-feb4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41667906427:android:5c469268ecee5b4b4d0bde",
+        "android_client_info": {
+          "package_name": "com.divya.qr_jwt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41667906427-sg4ab6gu0mau7nt8hhtqodhongo6of09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8FBJmjW9EhmPKIqOWLi-1Cym72qJ0ShY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41667906427-sg4ab6gu0mau7nt8hhtqodhongo6of09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
